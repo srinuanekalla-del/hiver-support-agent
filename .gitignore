@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/twcs.csv
+data/raw/spotifycares_support_tweets.csv
+eval/golden_set_TO_LABEL.csv

@@ -1,0 +1,448 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1,358176,True,Mon Jun 10 20:03:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",2,
+2,PixelWaveHelp,False,Mon Jun 10 20:17:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,1
+3,358176,True,Tue Jun 11 00:01:00 +0000 2024,"still not fixed, this is ridiculous",,2
+4,777814,True,Mon Jun 17 01:52:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",5,
+5,PixelWaveHelp,False,Mon Jun 17 02:09:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,4
+6,339643,True,Tue May 14 13:09:00 +0000 2024,"hey @PixelWaveHelp i cant log into my account, it keeps saying wrong password even after reset",7,
+7,PixelWaveHelp,False,Tue May 14 14:49:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,6
+8,339643,True,Tue May 14 21:03:00 +0000 2024,"still not fixed, this is ridiculous",,7
+9,849078,True,Mon Apr 22 15:43:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,10,
+10,PixelWaveHelp,False,Mon Apr 22 16:51:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,9
+11,455953,True,Thu Mar 21 18:19:00 +0000 2024,can i use two hubs in the same house for stereo pairing @PixelWaveHelp,12,
+12,638433,True,Fri Apr 12 10:09:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",13,
+13,PixelWaveHelp,False,Fri Apr 12 11:41:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,12
+14,808064,True,Tue Jun 25 02:53:00 +0000 2024,"@PixelWaveHelp order #383051 was supposed to arrive yesterday, tracking hasnt moved in 4 days",15,
+15,PixelWaveHelp,False,Tue Jun 25 05:43:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,14
+16,667288,True,Sun May 12 22:24:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,17,
+17,PixelWaveHelp,False,Sun May 12 22:44:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,16
+18,974230,True,Fri May 03 12:25:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,19,
+19,PixelWaveHelp,False,Fri May 03 15:59:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,18
+20,940710,True,Sat Jun 15 11:43:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,21,
+21,PixelWaveHelp,False,Sat Jun 15 11:51:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,20
+22,475509,True,Sun May 12 00:09:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,23,
+23,740531,True,Tue Aug 06 20:43:00 +0000 2024,@PixelWaveHelp does the mini support dolby atmos or just the pro?,24,
+24,611439,True,Mon Jun 10 12:25:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,25,
+25,PixelWaveHelp,False,Mon Jun 10 14:22:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,24
+26,611439,True,Mon Jun 10 17:26:00 +0000 2024,"still not fixed, this is ridiculous",,25
+27,794315,True,Mon Apr 08 17:06:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,,
+28,PixelWaveHelp,False,Mon Apr 08 19:53:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,27
+29,581853,True,Sun Jun 30 03:07:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,30,
+30,PixelWaveHelp,False,Sun Jun 30 06:21:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,29
+31,369280,True,Thu Jul 11 00:13:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",,
+32,PixelWaveHelp,False,Thu Jul 11 03:02:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,31
+33,473799,True,Thu Jul 11 11:58:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,34,
+34,PixelWaveHelp,False,Thu Jul 11 14:45:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,33
+35,995158,True,Fri Apr 19 07:52:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,36,
+36,PixelWaveHelp,False,Fri Apr 19 08:04:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,35
+37,403051,True,Sun Aug 25 19:22:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,,
+38,431171,True,Wed Mar 27 07:30:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,39,
+39,702764,True,Thu Aug 15 11:51:00 +0000 2024,"this is the THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",,
+40,PixelWaveHelp,False,Thu Aug 15 13:58:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,39
+41,866728,True,Sat May 25 02:51:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,,
+42,PixelWaveHelp,False,Sat May 25 03:28:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,41
+43,866728,True,Sat May 25 08:40:00 +0000 2024,any update on this??,,42
+44,353274,True,Sun Aug 04 19:30:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",45,
+45,PixelWaveHelp,False,Sun Aug 04 21:49:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,44
+46,404268,True,Wed Apr 24 00:16:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",47,
+47,PixelWaveHelp,False,Wed Apr 24 03:54:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,46
+48,404268,True,Wed Apr 24 11:49:00 +0000 2024,thank you! that fixed it,,47
+49,894655,True,Sun Jul 28 16:26:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",50,
+50,838115,True,Sat Mar 02 04:11:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",51,
+51,PixelWaveHelp,False,Sat Mar 02 07:36:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,50
+52,259582,True,Fri May 03 06:17:00 +0000 2024,"this is teh THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",53,
+53,PixelWaveHelp,False,Fri May 03 08:15:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,52
+54,835581,True,Wed Jul 10 06:44:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare these days",55,
+55,PixelWaveHelp,False,Wed Jul 10 09:47:00 +0000 2024,This made our day — thank you for the kind words! 💙,,54
+56,472202,True,Mon Jul 22 06:53:00 +0000 2024,@PixelWaveHelp if this isn't resolved by tomorrow i'm filing a complaint with the BBB,57,
+57,PixelWaveHelp,False,Mon Jul 22 08:47:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,56
+58,472202,True,Mon Jul 22 14:39:00 +0000 2024,thank you! that fixed it,,57
+59,361949,True,Sat Aug 31 20:42:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",60,
+60,PixelWaveHelp,False,Sat Aug 31 22:28:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,59
+61,900273,True,Sat Apr 27 05:45:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,62,
+62,PixelWaveHelp,False,Sat Apr 27 08:54:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,61
+63,680951,True,Fri Jun 21 22:01:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,64,
+64,439656,True,Wed Mar 27 02:16:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,65,
+65,PixelWaveHelp,False,Wed Mar 27 05:58:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,64
+66,471171,True,Wed Jun 12 04:34:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,67,
+67,PixelWaveHelp,False,Wed Jun 12 06:27:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,66
+68,217649,True,Sat Aug 10 02:51:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",69,
+69,PixelWaveHelp,False,Sat Aug 10 04:52:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,68
+70,217649,True,Sat Aug 10 09:45:00 +0000 2024,any update on this??,,69
+71,480871,True,Wed Aug 07 04:02:00 +0000 2024,"@PixelWaveHelp the new update is so smooth, love it",72,
+72,PixelWaveHelp,False,Wed Aug 07 06:47:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,71
+73,504045,True,Sun Jun 23 16:43:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",74,
+74,PixelWaveHelp,False,Sun Jun 23 16:52:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,73
+75,398659,True,Wed Jul 10 15:15:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,76,
+76,PixelWaveHelp,False,Wed Jul 10 17:29:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,75
+77,440717,True,Mon May 27 06:53:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,,
+78,PixelWaveHelp,False,Mon May 27 07:16:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,77
+79,651664,True,Thu Apr 11 01:05:00 +0000 2024,@PixelWaveHelp if this isn't resolved by tomorrow i'm filing a complaint with the BBB,80,
+80,PixelWaveHelp,False,Thu Apr 11 01:21:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,79
+81,667480,True,Fri Mar 01 08:23:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",82,
+82,391845,True,Fri Mar 01 10:24:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",83,
+83,PixelWaveHelp,False,Fri Mar 01 10:52:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,82
+84,618917,True,Mon Jul 29 01:25:00 +0000 2024,"hey @PixelWaveHelp i cant log into my account, it keeps saying wrong password even after reset",85,
+85,PixelWaveHelp,False,Mon Jul 29 04:18:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,84
+86,825537,True,Sat Jun 08 10:46:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,87,
+87,PixelWaveHelp,False,Sat Jun 08 13:58:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,86
+88,749199,True,Mon Sep 09 16:36:00 +0000 2024,"@PixelWaveHelp order #966552 was supposed to arrive yesterday, tracking hasnt moved in 4 days",89,
+89,PixelWaveHelp,False,Mon Sep 09 17:02:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,88
+90,749199,True,Mon Sep 09 18:20:00 +0000 2024,thank you! that fixed it,,89
+91,594912,True,Mon Jun 24 17:03:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",92,
+92,PixelWaveHelp,False,Mon Jun 24 20:32:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,91
+93,594912,True,Tue Jun 25 04:39:00 +0000 2024,"still not fixed, this is ridiculous",,92
+94,269258,True,Sat Sep 07 23:30:00 +0000 2024,@PixelWaveHelp when is teh blue colorway coming back in stock,95,
+95,PixelWaveHelp,False,Sun Sep 08 00:34:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,94
+96,717942,True,Thu Jun 06 02:30:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare tehse days",97,
+97,PixelWaveHelp,False,Thu Jun 06 03:59:00 +0000 2024,This made our day — thank you for the kind words! 💙,,96
+98,519204,True,Wed Aug 07 18:08:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,99,
+99,PixelWaveHelp,False,Wed Aug 07 21:05:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,98
+100,499414,True,Thu Jun 27 14:29:00 +0000 2024,@PixelWaveHelp does the mini support dolby atmos or just the pro?,,
+101,681265,True,Wed Mar 20 16:28:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,,
+102,PixelWaveHelp,False,Wed Mar 20 17:09:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,101
+103,577019,True,Wed Apr 03 19:52:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",104,
+104,226040,True,Wed Apr 10 00:31:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,105,
+105,PixelWaveHelp,False,Wed Apr 10 01:06:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,104
+106,987201,True,Sun May 26 12:07:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",107,
+107,PixelWaveHelp,False,Sun May 26 13:52:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,106
+108,280111,True,Sat Jun 01 13:48:00 +0000 2024,"worst support experience ever honestly, thinking about switching brands @PixelWaveHelp",109,
+109,PixelWaveHelp,False,Sat Jun 01 16:35:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,108
+110,478636,True,Thu Jun 20 16:20:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,,
+111,861542,True,Tue Jun 11 17:35:00 +0000 2024,"please refund my order, i no longer want teh device @PixelWaveHelp",,
+112,PixelWaveHelp,False,Tue Jun 11 20:24:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,111
+113,776830,True,Tue Apr 02 05:30:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,114,
+114,PixelWaveHelp,False,Tue Apr 02 07:18:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,113
+115,784394,True,Mon Aug 19 12:07:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,116,
+116,430713,True,Mon Jun 24 10:48:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,117,
+117,PixelWaveHelp,False,Mon Jun 24 13:15:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,116
+118,430713,True,Mon Jun 24 15:27:00 +0000 2024,thank you! that fixed it,,117
+119,797287,True,Sun Apr 21 00:47:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,120,
+120,PixelWaveHelp,False,Sun Apr 21 04:04:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,119
+121,797287,True,Sun Apr 21 06:36:00 +0000 2024,thank you! that fixed it,,120
+122,727848,True,Sun Jul 14 20:50:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",123,
+123,PixelWaveHelp,False,Sun Jul 14 22:45:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,122
+124,222869,True,Tue Apr 02 01:27:00 +0000 2024,@PixelWaveHelp if this isn't resolved by tomorrow i'm filing a complaint with the BBB,125,
+125,753502,True,Fri Jun 28 14:15:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",126,
+126,PixelWaveHelp,False,Fri Jun 28 14:41:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,125
+127,331755,True,Mon Apr 29 18:58:00 +0000 2024,"hey @PixelWaveHelp i cant log into my account, it keeps saying wrong password even after reset",,
+128,PixelWaveHelp,False,Mon Apr 29 22:01:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,127
+129,514939,True,Sat Jul 13 18:12:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",130,
+130,PixelWaveHelp,False,Sat Jul 13 20:14:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,129
+131,454130,True,Sun Jun 30 16:15:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",132,
+132,PixelWaveHelp,False,Sun Jun 30 16:25:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,131
+133,454130,True,Mon Jul 01 00:08:00 +0000 2024,any update on this??,,132
+134,438908,True,Sun Aug 18 13:59:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,135,
+135,PixelWaveHelp,False,Sun Aug 18 16:58:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,134
+136,506300,True,Fri Sep 06 16:04:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",137,
+137,PixelWaveHelp,False,Fri Sep 06 18:08:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,136
+138,509259,True,Thu Mar 28 19:31:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",,
+139,PixelWaveHelp,False,Thu Mar 28 21:16:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,138
+140,509259,True,Thu Mar 28 21:38:00 +0000 2024,"did that, didn't work",,139
+141,944340,True,Sat Mar 16 05:25:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,142,
+142,545236,True,Thu Apr 18 05:41:00 +0000 2024,"@PixelWaveHelp been using the hub for a year now and zero issues, great product",143,
+143,PixelWaveHelp,False,Thu Apr 18 07:39:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,142
+144,545236,True,Thu Apr 18 07:50:00 +0000 2024,"still not fixed, this is ridiculous",,143
+145,568539,True,Sun Jun 16 03:35:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,146,
+146,PixelWaveHelp,False,Sun Jun 16 04:02:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,145
+147,568539,True,Sun Jun 16 08:14:00 +0000 2024,"did that, didn't work",,146
+148,668029,True,Fri Apr 19 10:23:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,149,
+149,PixelWaveHelp,False,Fri Apr 19 10:38:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,148
+150,265015,True,Sun May 05 06:47:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",151,
+151,474907,True,Sun Sep 08 22:44:00 +0000 2024,"@PixelWaveHelp box arrived completely crushed, device inside is cracked",152,
+152,PixelWaveHelp,False,Sun Sep 08 22:55:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,151
+153,950330,True,Fri Jun 28 12:50:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,154,
+154,PixelWaveHelp,False,Fri Jun 28 16:20:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,153
+155,925729,True,Sat Sep 14 04:38:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,156,
+156,PixelWaveHelp,False,Sat Sep 14 06:54:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,155
+157,925729,True,Sat Sep 14 13:29:00 +0000 2024,"did that, didn't work",,156
+158,267877,True,Wed Aug 14 01:30:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",,
+159,288166,True,Tue Apr 23 03:26:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,160,
+160,PixelWaveHelp,False,Tue Apr 23 06:09:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,159
+161,764725,True,Sun Sep 15 21:48:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",162,
+162,PixelWaveHelp,False,Sun Sep 15 22:58:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,161
+163,459448,True,Wed Apr 17 07:15:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,164,
+164,PixelWaveHelp,False,Wed Apr 17 08:24:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,163
+165,442620,True,Wed Aug 14 03:41:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,166,
+166,PixelWaveHelp,False,Wed Aug 14 07:40:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,165
+167,444205,True,Sun Mar 31 01:12:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",,
+168,PixelWaveHelp,False,Sun Mar 31 04:35:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,167
+169,310918,True,Sun Aug 11 19:45:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare tehse days",170,
+170,PixelWaveHelp,False,Sun Aug 11 19:59:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,169
+171,413324,True,Sun Mar 03 10:26:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,172,
+172,PixelWaveHelp,False,Sun Mar 03 12:51:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,171
+173,614498,True,Sat Aug 17 17:09:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",174,
+174,PixelWaveHelp,False,Sat Aug 17 20:04:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,173
+175,527535,True,Sat Sep 07 18:56:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare these days",,
+176,406780,True,Sun Jun 09 23:25:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,177,
+177,PixelWaveHelp,False,Mon Jun 10 01:13:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,176
+178,370440,True,Wed Apr 03 00:03:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",,
+179,PixelWaveHelp,False,Wed Apr 03 03:16:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,178
+180,497056,True,Thu Apr 11 16:10:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",181,
+181,PixelWaveHelp,False,Thu Apr 11 17:32:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,180
+182,497056,True,Fri Apr 12 01:44:00 +0000 2024,"still not fixed, this is ridiculous",,181
+183,706185,True,Mon May 20 01:38:00 +0000 2024,"@PixelWaveHelp been using the hub for a year now and zero issues, great product",184,
+184,PixelWaveHelp,False,Mon May 20 04:26:00 +0000 2024,This made our day — thank you for the kind words! 💙,,183
+185,624132,True,Mon Aug 05 06:53:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,186,
+186,576656,True,Mon Apr 01 04:15:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,187,
+187,PixelWaveHelp,False,Mon Apr 01 04:50:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,186
+188,857501,True,Mon Sep 16 09:41:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,189,
+189,PixelWaveHelp,False,Mon Sep 16 11:54:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,188
+190,848955,True,Thu Jul 04 14:15:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",191,
+191,PixelWaveHelp,False,Thu Jul 04 16:02:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,190
+192,848955,True,Thu Jul 04 17:17:00 +0000 2024,thank you! that fixed it,,191
+193,296168,True,Sat Jun 22 16:32:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",194,
+194,PixelWaveHelp,False,Sat Jun 22 16:50:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,193
+195,884453,True,Tue Sep 17 04:01:00 +0000 2024,"this is the THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",196,
+196,PixelWaveHelp,False,Tue Sep 17 05:19:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,195
+197,373131,True,Fri Aug 23 23:59:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",198,
+198,PixelWaveHelp,False,Sat Aug 24 03:53:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,197
+199,678573,True,Sat Apr 06 08:32:00 +0000 2024,@PixelWaveHelp if this isn't resolved by tomorrow i'm filing a complaint with the BBB,200,
+200,PixelWaveHelp,False,Sat Apr 06 08:46:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,199
+201,678573,True,Sat Apr 06 12:22:00 +0000 2024,"did that, didn't work",,200
+202,491711,True,Wed Aug 21 10:57:00 +0000 2024,can i use two hubs in the same house for stereo pairing @PixelWaveHelp,203,
+203,PixelWaveHelp,False,Wed Aug 21 13:44:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,202
+204,675045,True,Sun Jul 21 16:37:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",205,
+205,PixelWaveHelp,False,Sun Jul 21 17:49:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,204
+206,353297,True,Sat Jun 01 10:48:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",207,
+207,741177,True,Sat May 04 09:40:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",208,
+208,PixelWaveHelp,False,Sat May 04 10:23:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,207
+209,637976,True,Wed Jul 10 11:57:00 +0000 2024,@PixelWaveHelp does the mini support dolby atmos or just the pro?,210,
+210,PixelWaveHelp,False,Wed Jul 10 12:02:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,209
+211,748498,True,Fri May 31 17:14:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,212,
+212,PixelWaveHelp,False,Fri May 31 17:59:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,211
+213,748498,True,Sat Jun 01 02:08:00 +0000 2024,"did that, didn't work",,212
+214,672753,True,Mon Mar 25 02:40:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,215,
+215,PixelWaveHelp,False,Mon Mar 25 02:59:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,214
+216,567350,True,Wed Jul 31 20:37:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,217,
+217,PixelWaveHelp,False,Wed Jul 31 20:53:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,216
+218,567350,True,Wed Jul 31 21:15:00 +0000 2024,any update on this??,,217
+219,366950,True,Fri Mar 15 03:00:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,220,
+220,PixelWaveHelp,False,Fri Mar 15 06:33:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,219
+221,266864,True,Thu May 16 20:03:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,222,
+222,PixelWaveHelp,False,Thu May 16 20:28:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,221
+223,436924,True,Wed Mar 27 08:14:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",224,
+224,PixelWaveHelp,False,Wed Mar 27 11:21:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,223
+225,436924,True,Wed Mar 27 16:56:00 +0000 2024,any update on this??,,224
+226,748661,True,Tue May 07 09:41:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,227,
+227,PixelWaveHelp,False,Tue May 07 13:21:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,226
+228,982396,True,Thu May 23 06:56:00 +0000 2024,"@PixelWaveHelp been using the hub for a year now and zero issues, great product",229,
+229,897550,True,Tue Jul 16 15:30:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",,
+230,PixelWaveHelp,False,Tue Jul 16 18:57:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,229
+231,281581,True,Tue Jul 23 05:09:00 +0000 2024,@PixelWaveHelp does teh mini support dolby atmos or just the pro?,232,
+232,PixelWaveHelp,False,Tue Jul 23 08:13:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,231
+233,281581,True,Tue Jul 23 08:44:00 +0000 2024,"did that, didn't work",,232
+234,864669,True,Mon Mar 11 22:04:00 +0000 2024,@PixelWaveHelp does the mini support dolby atmos or just the pro?,235,
+235,PixelWaveHelp,False,Tue Mar 12 01:54:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,234
+236,602488,True,Thu Mar 28 07:13:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",,
+237,291718,True,Mon Sep 09 20:40:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",238,
+238,PixelWaveHelp,False,Mon Sep 09 22:00:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,237
+239,221934,True,Wed May 29 08:59:00 +0000 2024,"@PixelWaveHelp getting error code E-204 on setup, googled it and found nothing",240,
+240,PixelWaveHelp,False,Wed May 29 12:41:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,239
+241,632978,True,Fri Mar 08 13:33:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,242,
+242,PixelWaveHelp,False,Fri Mar 08 16:05:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,241
+243,201362,True,Sat Jul 13 06:18:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",244,
+244,PixelWaveHelp,False,Sat Jul 13 08:29:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,243
+245,740163,True,Mon May 06 18:10:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare these days",246,
+246,PixelWaveHelp,False,Mon May 06 20:57:00 +0000 2024,This made our day — thank you for the kind words! 💙,,245
+247,931023,True,Mon Jul 22 03:40:00 +0000 2024,"@PixelWaveHelp box arrived completely crushed, device inside is cracked",,
+248,642635,True,Tue Aug 13 00:23:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",,
+249,PixelWaveHelp,False,Tue Aug 13 04:14:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,248
+250,333043,True,Mon Jul 15 19:48:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",251,
+251,780634,True,Fri Sep 06 10:10:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,252,
+252,PixelWaveHelp,False,Fri Sep 06 12:13:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,251
+253,732365,True,Fri Apr 19 08:19:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,254,
+254,PixelWaveHelp,False,Fri Apr 19 09:05:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,253
+255,471254,True,Tue Sep 03 03:10:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",,
+256,PixelWaveHelp,False,Tue Sep 03 05:06:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,255
+257,312061,True,Sat May 11 06:56:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",258,
+258,PixelWaveHelp,False,Sat May 11 09:09:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,257
+259,223191,True,Sat Apr 06 08:38:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,,
+260,PixelWaveHelp,False,Sat Apr 06 12:19:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,259
+261,872863,True,Tue Aug 27 18:54:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,262,
+262,PixelWaveHelp,False,Tue Aug 27 21:39:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,261
+263,454170,True,Tue Sep 17 12:45:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",264,
+264,PixelWaveHelp,False,Tue Sep 17 15:02:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,263
+265,391954,True,Thu Aug 15 10:49:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",,
+266,PixelWaveHelp,False,Thu Aug 15 13:13:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,265
+267,409517,True,Thu Jul 11 11:06:00 +0000 2024,can i use two hubs in the same house for stereo pairing @PixelWaveHelp,268,
+268,PixelWaveHelp,False,Thu Jul 11 13:24:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,267
+269,679104,True,Tue Apr 23 21:11:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,270,
+270,259368,True,Sat May 04 08:24:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,271,
+271,PixelWaveHelp,False,Sat May 04 10:57:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,270
+272,977488,True,Tue Jun 11 16:14:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,273,
+273,PixelWaveHelp,False,Tue Jun 11 18:19:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,272
+274,353368,True,Thu May 30 21:40:00 +0000 2024,can i use two hubs in the same house for stereo pairing @PixelWaveHelp,275,
+275,PixelWaveHelp,False,Thu May 30 23:15:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,274
+276,938407,True,Wed Jun 05 21:16:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,277,
+277,PixelWaveHelp,False,Wed Jun 05 22:52:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,276
+278,702844,True,Wed Jul 03 13:39:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",279,
+279,PixelWaveHelp,False,Wed Jul 03 13:58:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,278
+280,702844,True,Wed Jul 03 18:57:00 +0000 2024,thank you! that fixed it,,279
+281,347221,True,Sun Jul 14 11:40:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,,
+282,PixelWaveHelp,False,Sun Jul 14 14:20:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,281
+283,347221,True,Sun Jul 14 15:43:00 +0000 2024,"did that, didn't work",,282
+284,673914,True,Tue May 28 04:13:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,285,
+285,PixelWaveHelp,False,Tue May 28 07:09:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,284
+286,867518,True,Thu May 16 06:31:00 +0000 2024,"got teh wrong item entirely, ordered the mini and got the pro @PixelWaveHelp",287,
+287,PixelWaveHelp,False,Thu May 16 08:58:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,286
+288,867518,True,Thu May 16 12:42:00 +0000 2024,"did that, didn't work",,287
+289,696229,True,Fri Jul 05 17:03:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,290,
+290,PixelWaveHelp,False,Fri Jul 05 19:26:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,289
+291,368146,True,Wed May 22 14:44:00 +0000 2024,can i use two hubs in the same house for stereo pairing @PixelWaveHelp,292,
+292,PixelWaveHelp,False,Wed May 22 15:35:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,291
+293,229915,True,Wed Mar 06 19:02:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,294,
+294,PixelWaveHelp,False,Wed Mar 06 19:15:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,293
+295,333065,True,Sun May 26 03:55:00 +0000 2024,"@PixelWaveHelp getting error code E-204 on setup, googled it and found nothing",296,
+296,PixelWaveHelp,False,Sun May 26 05:12:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,295
+297,780940,True,Thu Mar 14 09:18:00 +0000 2024,"@PixelWaveHelp getting error code E-204 on setup, googled it and found nothing",298,
+298,561559,True,Mon Apr 22 20:31:00 +0000 2024,"this is the THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",299,
+299,PixelWaveHelp,False,Mon Apr 22 23:56:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,298
+300,781219,True,Wed Jun 12 17:36:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",301,
+301,PixelWaveHelp,False,Wed Jun 12 20:16:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,300
+302,725171,True,Thu Jul 18 19:24:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",303,
+303,241391,True,Sun Aug 18 20:29:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",,
+304,PixelWaveHelp,False,Mon Aug 19 00:28:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,303
+305,345433,True,Sun May 19 17:45:00 +0000 2024,why did you lock my account?? i didnt do anything wrong @PixelWaveHelp,306,
+306,PixelWaveHelp,False,Sun May 19 19:57:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,305
+307,324620,True,Sun Sep 15 13:36:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",308,
+308,PixelWaveHelp,False,Sun Sep 15 15:42:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,307
+309,286952,True,Mon Aug 12 15:13:00 +0000 2024,"got teh wrong item entirely, ordered the mini and got the pro @PixelWaveHelp",310,
+310,PixelWaveHelp,False,Mon Aug 12 18:57:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,309
+311,286952,True,Tue Aug 13 02:32:00 +0000 2024,"still not fixed, this is ridiculous",,310
+312,218640,True,Fri May 10 23:36:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",313,
+313,PixelWaveHelp,False,Sat May 11 02:47:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,312
+314,784569,True,Thu Aug 29 15:29:00 +0000 2024,"@PixelWaveHelp getting error code E-204 on setup, googled it and found nothing",315,
+315,PixelWaveHelp,False,Thu Aug 29 17:13:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,314
+316,374060,True,Wed Jul 03 19:03:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,317,
+317,PixelWaveHelp,False,Wed Jul 03 19:45:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,316
+318,876214,True,Thu Apr 11 20:51:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",319,
+319,794350,True,Sat May 25 09:17:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,320,
+320,PixelWaveHelp,False,Sat May 25 13:04:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,319
+321,358461,True,Thu Aug 01 09:37:00 +0000 2024,"@PixelWaveHelp been using the hub for a year now and zero issues, great product",322,
+322,PixelWaveHelp,False,Thu Aug 01 13:08:00 +0000 2024,This made our day — thank you for the kind words! 💙,,321
+323,537144,True,Tue May 07 08:27:00 +0000 2024,is the new hub compatible with older remotes from 2019 @PixelWaveHelp?,324,
+324,PixelWaveHelp,False,Tue May 07 12:05:00 +0000 2024,"Yep, stereo pairing works with two of the same model — you can set it up in the app under 'Speaker Groups'.",,323
+325,537144,True,Tue May 07 19:50:00 +0000 2024,"did that, didn't work",,324
+326,774460,True,Fri Aug 23 15:22:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",327,
+327,PixelWaveHelp,False,Fri Aug 23 16:46:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,326
+328,687926,True,Thu Aug 29 06:59:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,329,
+329,PixelWaveHelp,False,Thu Aug 29 09:21:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,328
+330,444178,True,Mon Jun 10 18:33:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",331,
+331,PixelWaveHelp,False,Mon Jun 10 19:32:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,330
+332,444178,True,Mon Jun 10 21:14:00 +0000 2024,thank you! that fixed it,,331
+333,791848,True,Fri May 31 12:49:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",334,
+334,311273,True,Tue Jun 04 20:29:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",335,
+335,PixelWaveHelp,False,Tue Jun 04 20:58:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,334
+336,311273,True,Wed Jun 05 04:33:00 +0000 2024,any update on this??,,335
+337,423958,True,Mon May 06 08:27:00 +0000 2024,"@PixelWaveHelp order #568568 was supposed to arrive yesterday, tracking hasnt moved in 4 days",338,
+338,239710,True,Sun May 26 06:11:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,339,
+339,PixelWaveHelp,False,Sun May 26 08:20:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,338
+340,267303,True,Thu Aug 01 20:25:00 +0000 2024,"this is the THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",341,
+341,PixelWaveHelp,False,Fri Aug 02 00:25:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,340
+342,670122,True,Wed Apr 10 11:15:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,343,
+343,PixelWaveHelp,False,Wed Apr 10 14:54:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,342
+344,738270,True,Thu Aug 29 23:41:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,345,
+345,PixelWaveHelp,False,Fri Aug 30 02:39:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,344
+346,662715,True,Wed Sep 11 20:06:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,347,
+347,PixelWaveHelp,False,Wed Sep 11 20:54:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,346
+348,910559,True,Mon Mar 04 14:45:00 +0000 2024,"please refund my order, i no longer want teh device @PixelWaveHelp",,
+349,PixelWaveHelp,False,Mon Mar 04 18:37:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,348
+350,301698,True,Fri Jun 07 00:40:00 +0000 2024,@PixelWaveHelp i want to cancel my subscription immediately,351,
+351,PixelWaveHelp,False,Fri Jun 07 03:25:00 +0000 2024,We're sorry to see you go. DM your account email and we'll process the cancellation right away.,,350
+352,971817,True,Fri Mar 15 05:45:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,353,
+353,PixelWaveHelp,False,Fri Mar 15 07:35:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,352
+354,798726,True,Wed May 15 10:51:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",355,
+355,738399,True,Fri Mar 15 20:57:00 +0000 2024,"@PixelWaveHelp 2FA code never arrives, been stuck locked out for 2 days now",356,
+356,PixelWaveHelp,False,Fri Mar 15 22:35:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,355
+357,450268,True,Tue Apr 30 03:24:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",358,
+358,PixelWaveHelp,False,Tue Apr 30 04:05:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,357
+359,732458,True,Mon May 27 16:08:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",,
+360,PixelWaveHelp,False,Mon May 27 18:04:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,359
+361,732458,True,Mon May 27 21:43:00 +0000 2024,"did that, didn't work",,360
+362,389463,True,Fri Apr 05 05:33:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,363,
+363,PixelWaveHelp,False,Fri Apr 05 08:52:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,362
+364,842182,True,Mon Aug 19 22:40:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,365,
+365,PixelWaveHelp,False,Tue Aug 20 02:20:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,364
+366,564528,True,Sat May 25 09:53:00 +0000 2024,"@PixelWaveHelp password reset link is broken, just 404s",,
+367,PixelWaveHelp,False,Sat May 25 11:01:00 +0000 2024,"That's frustrating, we hear you. Can you DM your registered email so we can check the 2FA delivery logs on our end?",,366
+368,564528,True,Sat May 25 18:16:00 +0000 2024,thank you! that fixed it,,367
+369,936370,True,Tue Jun 04 18:38:00 +0000 2024,"hey @PixelWaveHelp i cant log into my account, it keeps saying wrong password even after reset",370,
+370,PixelWaveHelp,False,Tue Jun 04 20:14:00 +0000 2024,"Hi there, sorry for the trouble! Please try clearing your app cache and requesting a new reset link — if it still fails, DM us your account email and we'll manually unlock it.",,369
+371,536570,True,Mon Sep 16 22:55:00 +0000 2024,want my money back this thing never worked right from day 1 @PixelWaveHelp,372,
+372,718839,True,Sun Jun 23 16:01:00 +0000 2024,"@PixelWaveHelp the new update is so smooth, love it",373,
+373,PixelWaveHelp,False,Sun Jun 23 16:32:00 +0000 2024,This made our day — thank you for the kind words! 💙,,372
+374,231534,True,Tue Mar 05 03:59:00 +0000 2024,"got teh wrong item entirely, ordered the mini and got the pro @PixelWaveHelp",375,
+375,PixelWaveHelp,False,Tue Mar 05 07:03:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,374
+376,298467,True,Sat Aug 31 05:02:00 +0000 2024,"@PixelWaveHelp getting error code E-204 on setup, googled it and found nothing",377,
+377,PixelWaveHelp,False,Sat Aug 31 05:38:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,376
+378,298467,True,Sat Aug 31 13:20:00 +0000 2024,"did that, didn't work",,377
+379,438480,True,Sun Apr 28 04:42:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,,
+380,PixelWaveHelp,False,Sun Apr 28 07:44:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,379
+381,751147,True,Sun Mar 10 12:03:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",382,
+382,PixelWaveHelp,False,Sun Mar 10 15:36:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,381
+383,540661,True,Thu Jul 11 04:43:00 +0000 2024,"@PixelWaveHelp box arrived completely crushed, device inside is cracked",384,
+384,PixelWaveHelp,False,Thu Jul 11 07:03:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,383
+385,540661,True,Thu Jul 11 09:59:00 +0000 2024,any update on this??,,384
+386,901644,True,Wed Mar 06 07:08:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,,
+387,PixelWaveHelp,False,Wed Mar 06 07:21:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,386
+388,911394,True,Wed Aug 07 08:40:00 +0000 2024,@PixelWaveHelp does teh mini support dolby atmos or just the pro?,389,
+389,PixelWaveHelp,False,Wed Aug 07 08:55:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,388
+390,878974,True,Fri Apr 12 03:03:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",391,
+391,PixelWaveHelp,False,Fri Apr 12 05:00:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,390
+392,878974,True,Fri Apr 12 06:17:00 +0000 2024,thank you! that fixed it,,391
+393,805390,True,Mon May 13 08:15:00 +0000 2024,"this is the THIRD time i've had to tweet @PixelWaveHelp about the same issue, unacceptable",394,
+394,PixelWaveHelp,False,Mon May 13 11:06:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,393
+395,584632,True,Wed Jun 26 17:19:00 +0000 2024,still no delivery and its been 2 weeks @PixelWaveHelp whats going on,396,
+396,PixelWaveHelp,False,Wed Jun 26 19:35:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,395
+397,615712,True,Mon Mar 04 11:10:00 +0000 2024,"@PixelWaveHelp the new update is so smooth, love it",398,
+398,PixelWaveHelp,False,Mon Mar 04 12:30:00 +0000 2024,This made our day — thank you for the kind words! 💙,,397
+399,615712,True,Mon Mar 04 12:51:00 +0000 2024,"did that, didn't work",,398
+400,835357,True,Wed May 29 14:42:00 +0000 2024,"@PixelWaveHelp order #642109 was supposed to arrive yesterday, tracking hasnt moved in 4 days",401,
+401,PixelWaveHelp,False,Wed May 29 17:00:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,400
+402,974517,True,Tue Apr 09 13:21:00 +0000 2024,"shoutout to @PixelWaveHelp team for actually being helpful today, rare these days",403,
+403,PixelWaveHelp,False,Tue Apr 09 16:35:00 +0000 2024,This made our day — thank you for the kind words! 💙,,402
+404,698323,True,Wed May 08 20:45:00 +0000 2024,"@PixelWaveHelp the new update is so smooth, love it",405,
+405,PixelWaveHelp,False,Wed May 08 22:57:00 +0000 2024,This made our day — thank you for the kind words! 💙,,404
+406,356901,True,Sat Jun 15 08:55:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",407,
+407,PixelWaveHelp,False,Sat Jun 15 10:14:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,406
+408,824343,True,Fri Jun 07 20:20:00 +0000 2024,"@PixelWaveHelp order #925311 was supposed to arrive yesterday, tracking hasnt moved in 4 days",,
+409,PixelWaveHelp,False,Fri Jun 07 21:12:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,408
+410,656807,True,Fri Jul 26 12:37:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",411,
+411,454439,True,Thu May 23 06:27:00 +0000 2024,"@PixelWaveHelp order #126817 was supposed to arrive yesterday, tracking hasnt moved in 4 days",412,
+412,PixelWaveHelp,False,Thu May 23 08:49:00 +0000 2024,That's not the experience we want for you — please DM your order # and we'll get a replacement shipped out.,,411
+413,742392,True,Tue Sep 03 21:27:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,414,
+414,PixelWaveHelp,False,Wed Sep 04 00:25:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,413
+415,742392,True,Wed Sep 04 02:32:00 +0000 2024,"still not fixed, this is ridiculous",,414
+416,725240,True,Tue Jun 11 20:35:00 +0000 2024,"@PixelWaveHelp firmware update bricked my device, screen is just black now",,
+417,PixelWaveHelp,False,Tue Jun 11 23:56:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,416
+418,559954,True,Sun Aug 25 16:47:00 +0000 2024,"just wanna say @PixelWaveHelp support fixed my issue in like 5 mins, amazing",419,
+419,PixelWaveHelp,False,Sun Aug 25 19:03:00 +0000 2024,So glad to hear it! Thanks for being a PixelWave customer.,,418
+420,559954,True,Mon Aug 26 00:48:00 +0000 2024,thank you! that fixed it,,419
+421,733599,True,Sun Jun 16 20:10:00 +0000 2024,@PixelWaveHelp when is the blue colorway coming back in stock,422,
+422,PixelWaveHelp,False,Sun Jun 16 20:30:00 +0000 2024,"Great question! Yes, the Pro supports Dolby Atmos; the Mini currently does not. Full spec sheet: pixelwave.co/specs",,421
+423,570340,True,Wed Jul 24 20:40:00 +0000 2024,"@PixelWaveHelp order #825341 was supposed to arrive yesterday, tracking hasnt moved in 4 days",424,
+424,PixelWaveHelp,False,Thu Jul 25 00:39:00 +0000 2024,So sorry about the delay! DM your order number and we'll escalate directly with the carrier.,,423
+425,814675,True,Mon Mar 04 21:01:00 +0000 2024,"@PixelWaveHelp customer service has been silent for a week, absolutely ridiculous",426,
+426,PixelWaveHelp,False,Mon Mar 04 23:33:00 +0000 2024,We're really sorry — this isn't the experience we want you to have. DM us your case number so a specialist can take a look today.,,425
+427,814675,True,Tue Mar 05 04:51:00 +0000 2024,"still not fixed, this is ridiculous",,426
+428,743606,True,Wed Sep 11 16:06:00 +0000 2024,"@PixelWaveHelp i was charged twice for my subscription this month, pls fix",,
+429,PixelWaveHelp,False,Wed Sep 11 18:47:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,428
+430,881679,True,Mon Mar 04 21:49:00 +0000 2024,"@PixelWaveHelp cancel my plan, i already emailed twice with no response",431,
+431,PixelWaveHelp,False,Tue Mar 05 00:34:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,430
+432,881679,True,Tue Mar 05 08:26:00 +0000 2024,"still not fixed, this is ridiculous",,431
+433,671689,True,Wed Aug 07 12:01:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",434,
+434,850303,True,Wed May 01 07:14:00 +0000 2024,"@PixelWaveHelp my hub won't turn on at all, tried 3 different outlets",,
+435,PixelWaveHelp,False,Wed May 01 08:36:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,434
+436,719623,True,Mon Mar 18 07:43:00 +0000 2024,payment failed on my end but you still charged me?? @PixelWaveHelp explain,437,
+437,PixelWaveHelp,False,Mon Mar 18 07:53:00 +0000 2024,We'd be happy to send an invoice — please DM the email on file and the billing month you need.,,436
+438,381893,True,Sat Apr 13 11:24:00 +0000 2024,why is my card being charged $14.99 when i thought the plan was $9.99 @PixelWaveHelp,439,
+439,PixelWaveHelp,False,Sat Apr 13 12:54:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,438
+440,622781,True,Wed Aug 14 02:07:00 +0000 2024,device randomly disconnects from wifi like 10x a day @PixelWaveHelp pls help,441,
+441,PixelWaveHelp,False,Wed Aug 14 03:24:00 +0000 2024,That error usually clears with a factory reset — full steps here: pixelwave.co/reset. Let us know if it persists.,,440
+442,492692,True,Sun Aug 18 00:21:00 +0000 2024,keeps buffering every 30 seconds even on my gigabit connection @PixelWaveHelp so annoying,443,
+443,PixelWaveHelp,False,Sun Aug 18 02:48:00 +0000 2024,"Sorry to hear that! Try holding the reset button for 10 seconds, then reconnecting to wifi. If that doesn't work, DM us your device serial number.",,442
+444,451851,True,Wed Apr 10 11:22:00 +0000 2024,"please refund my order, i no longer want the device @PixelWaveHelp",445,
+445,PixelWaveHelp,False,Wed Apr 10 13:28:00 +0000 2024,Understood — please DM your order number so we can start the refund process.,,444
+446,674682,True,Tue Aug 20 04:45:00 +0000 2024,"@PixelWaveHelp can someone send me an invoice for last month, need it for expense report",447,
+447,PixelWaveHelp,False,Tue Aug 20 06:33:00 +0000 2024,"Sorry about that! Duplicate charges are usually reversed automatically within 3-5 business days, but DM your order number and we'll expedite it.",,446

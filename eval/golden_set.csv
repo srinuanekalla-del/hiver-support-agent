@@ -1,0 +1,61 @@
+message,gold_intent,gold_action,notes
+"@PixelWaveHelp cant log into my account, password reset link just 404s",account_login_issue,auto_handle,clean case
+"@PixelWaveHelp 2FA code never arrives, locked out for 2 days",account_login_issue,auto_handle,clean case
+"why is my account suspended @PixelWaveHelp i didnt do anything",account_login_issue,auto_handle,clean case
+"@PixelWaveHelp login page just spins forever on mobile app",account_login_issue,auto_handle,clean case
+"forgot password AND the recovery email is wrong on file @PixelWaveHelp help",account_login_issue,escalate,edge case: requires manual identity verification, not a simple reset
+"@PixelWaveHelp charged twice for my subscription this month, pls fix",billing_payment_issue,auto_handle,clean case
+"why is my card charged $14.99 when the plan is supposed to be $9.99 @PixelWaveHelp",billing_payment_issue,auto_handle,clean case
+"@PixelWaveHelp need an invoice for last month for my expense report",billing_payment_issue,auto_handle,clean case
+"payment failed on my end but you still charged me @PixelWaveHelp explain",billing_payment_issue,auto_handle,clean case
+"@PixelWaveHelp charged me $400, way more than any plan costs, what is this charge",billing_payment_issue,escalate,edge case: unusually large/unexplained charge warrants human before promising anything
+"@PixelWaveHelp my hub wont turn on at all, tried 3 outlets",device_technical_issue,auto_handle,clean case
+"keeps buffering every 30 seconds even on gigabit wifi @PixelWaveHelp",device_technical_issue,auto_handle,clean case
+"@PixelWaveHelp getting error code E-204 on setup, nothing online about it",device_technical_issue,auto_handle,clean case
+"device randomly disconnects from wifi 10x a day @PixelWaveHelp",device_technical_issue,auto_handle,clean case
+"@PixelWaveHelp firmware update bricked my device, screen is black now",device_technical_issue,auto_handle,clean case
+"@PixelWaveHelp device got so hot it started smoking, kinda scared to touch it",device_technical_issue,escalate,edge case: potential safety hazard, not a routine reset
+"@PixelWaveHelp order #482910 supposed to arrive yesterday, tracking frozen 4 days",shipping_delivery_issue,auto_handle,clean case
+"got the wrong item, ordered mini got the pro @PixelWaveHelp",shipping_delivery_issue,auto_handle,clean case
+"@PixelWaveHelp box arrived completely crushed, device inside is cracked",shipping_delivery_issue,auto_handle,clean case
+"still no delivery, been 2 weeks @PixelWaveHelp whats going on",shipping_delivery_issue,auto_handle,clean case
+"@PixelWaveHelp does the mini support dolby atmos or just the pro",product_information_request,auto_handle,clean case
+"is the new hub compatible with older remotes from 2019 @PixelWaveHelp",product_information_request,auto_handle,clean case
+"@PixelWaveHelp when is the blue colorway coming back in stock",product_information_request,auto_handle,clean case
+"can i use two hubs in the same house for stereo pairing @PixelWaveHelp",product_information_request,auto_handle,clean case
+"@PixelWaveHelp does the pro work in the EU with different voltage, thinking of using it commercially in a rental property business",product_information_request,escalate,edge case: commercial/liability angle, not a simple spec question
+"@PixelWaveHelp i want to cancel my subscription immediately",cancellation_refund_request,escalate,money leaving company by policy
+"please refund my order, i no longer want the device @PixelWaveHelp",cancellation_refund_request,escalate,money leaving company by policy
+"@PixelWaveHelp cancel my plan, already emailed twice with no response",cancellation_refund_request,escalate,money leaving company by policy
+"want my money back this thing never worked right from day 1 @PixelWaveHelp",cancellation_refund_request,escalate,money leaving company by policy
+"@PixelWaveHelp actually nvm i figured out how to pause my subscription myself, all good",cancellation_refund_request,auto_handle,edge case: no action needed from company, safe to auto-ack; tests whether pipeline over-escalates on the word cancel
+"this is the THIRD time ive tweeted @PixelWaveHelp about the same issue, unacceptable",complaint_general,escalate,repeat contact + frustration
+"@PixelWaveHelp customer service silent for a week, absolutely ridiculous",complaint_general,escalate,repeat contact + frustration
+"worst support experience ever, thinking about switching brands @PixelWaveHelp",complaint_general,escalate,repeat contact + frustration
+"@PixelWaveHelp if this isnt resolved by tomorrow im filing a complaint with the BBB",complaint_general,escalate,hard escalation phrase (BBB)
+"@PixelWaveHelp considering legal action over the fire hazard with my unit",complaint_general,escalate,hard escalation phrase (legal action + fire hazard) - highest priority
+"lol @PixelWaveHelp yall are cooked today huh, app is being weird",complaint_general,auto_handle,edge case: sarcastic/light tone despite complaint-shaped wording, not genuinely escalation-worthy — tests over-triggering on caps/emphasis
+"just wanna say @PixelWaveHelp support fixed my issue in 5 mins, amazing",positive_feedback,auto_handle,clean case
+"@PixelWaveHelp the new update is so smooth, love it",positive_feedback,auto_handle,clean case
+"shoutout to @PixelWaveHelp team for being helpful today, rare these days",positive_feedback,auto_handle,clean case
+"@PixelWaveHelp been using the hub a year, zero issues, great product",positive_feedback,auto_handle,clean case
+"@PixelWaveHelp love the product but the app keeps crashing every time I open settings",device_technical_issue,auto_handle,edge case: mixed praise + bug report, real intent is the bug
+"@PixelWaveHelp my kid ordered the pro without asking, can we cancel and also is it kid-safe re small parts",cancellation_refund_request,escalate,edge case: two intents in one tweet (cancel + safety); cancel dominates for routing but safety note should be flagged too
+"@PixelWaveHelp app store says update available but tapping update does nothing",device_technical_issue,auto_handle,clean case
+"@PixelWaveHelp is there a student discount available",billing_payment_issue,auto_handle,clean case
+"@PixelWaveHelp still not fixed, this is ridiculous, did that already",device_technical_issue,escalate,repeat contact after failed fix attempt
+"any update on this?? @PixelWaveHelp its been days",complaint_general,escalate,repeat contact, vague but frustrated
+"thank you! that fixed it @PixelWaveHelp",positive_feedback,auto_handle,resolved follow-up, no action needed
+"@PixelWaveHelp is the mic on the hub always listening, kind of worried about privacy",product_information_request,escalate,edge case: privacy question could have legal/PR sensitivity, route to human even though phrased as a simple question
+"@PixelWaveHelp your hub is on sale for xmas right?",product_information_request,auto_handle,clean case
+"@PixelWaveHelp tracking says delivered but i never got the package",shipping_delivery_issue,auto_handle,clean case
+"@PixelWaveHelp can i pay annually instead of monthly to save money",billing_payment_issue,auto_handle,clean case
+"@PixelWaveHelp app requires a login every single time even with remember me checked",account_login_issue,auto_handle,clean case
+"@PixelWaveHelp my elderly mom cant figure out the setup, can someone call her directly",device_technical_issue,escalate,edge case: request for a phone call / white-glove handling, beyond scripted reply scope
+"@PixelWaveHelp received someone elses order with their name on it, mine is nowhere",shipping_delivery_issue,auto_handle,clean case
+"@PixelWaveHelp is there a way to export my listening history before i cancel",cancellation_refund_request,escalate,contains cancel intent, data export request adds complexity
+"@PixelWaveHelp the remote's batteries died after 3 days is that normal",device_technical_issue,auto_handle,clean case
+"@PixelWaveHelp waiting 45 min on hold then got disconnected, im furious, done with this brand",complaint_general,escalate,strong frustration signal
+"@PixelWaveHelp quick q does the hub work without wifi just bluetooth",product_information_request,auto_handle,clean case
+"@PixelWaveHelp charged in USD but i live in canada and the conversion seems off, can you check",billing_payment_issue,auto_handle,clean case
+"@PixelWaveHelp not a complaint just curious when the next hardware refresh is coming",product_information_request,auto_handle,clean case
